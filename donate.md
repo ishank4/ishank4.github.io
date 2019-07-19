@@ -14,7 +14,7 @@ title: Education
 }
 #self-photo1 {
 	margin-top: 30px;
-	margin-left: 30px;
+	margin-left: 50px;
 	border-radius: 50%;
 	width: 130px;
 }
