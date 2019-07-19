@@ -1,36 +1,25 @@
 ---
 layout: simple
-title: Work Experience
+title: About
 ---
 
-<style>
-.hero-body .column {
-	margin-bottom: 180px;
-}
+# About Sindre Sorhus
 
-.hero-body .tagline {
-	font-size: 18px;
-	margin-top: 5px;
-}
+I'm a full-time open-source developer. In 2014, I quit my office job to backpack around Southeast Asia while doing open-source. I have since settled in Bangkok, Thailand, but I'm still doing open-source all day. In early 2018, I became [fully funded by the community ❤️](https://twitter.com/sindresorhus/status/963478258808340482).
 
-#self-photo {
-	margin-top: 30px;
-	margin-left: 30px;
-	border-radius: 50%;
-	width: 130px;
-}
-</style>
+My current focus is on macOS app development with Swift and Node.js-based packages and CLI tools. I actively maintain [1000+ npm packages](https://www.npmjs.com/~sindresorhus) and [many popular projects](https://github.com/search?q=user%3Asindresorhus+user%3Achalk+user%3Aavajs+user%3Axojs&type=Repositories).
 
-<img id="self-photo" src="/nvidia.jpg" align="left">
+### More
 
-# Work 🏦  
-Currenlty pursuing master's from University.
+- [Interviewed by Between the Wires](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
+- [Answering Anything & Everything](https://blog.sindresorhus.com/answering-anything-678ce5623798)
+- [About Me Blog Post](https://blog.sindresorhus.com/about-sindre-sorhus-42786d2e191b)
 
+### Links
 
-### Graduate School
-- Pursuing Master of Science in XYZ from ABC 
-- On going courses 
-
-### Undergraduate School
-- Pursued Bachelor of Science in XYZ from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
-- Courses undertaken abc,xyz
+- [GitHub](https://github.com/sindresorhus)
+- [Twitter](https://twitter.com/sindresorhus)
+- [Instagram](https://instagram.com/sindresorhus)
+- [Unsplash](https://unsplash.com/@sindresorhus)
+- [Patreon](https://www.patreon.com/sindresorhus)
+- [Email](/contact)
