@@ -108,9 +108,6 @@ layout: default
 							{% if page.repo_url %}
 								<a class="is-link" href="{{ page.repo_url }}">Source on GitHub</a>
 							{% else %}
-								{% unless page.is_prerelease %}
-									<a class="is-link" href="https://sindresorhus.com/feedback?product={{ page.title | url_encode }}">Support</a>
-								{% endunless %}
 							{% endif %}
 						</li>
 						{% for link in page.links %}
