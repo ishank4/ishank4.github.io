@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Donate
+title: Education
 ---
 
 <style>
@@ -21,7 +21,7 @@ title: Donate
 }
 </style>
 
-<img id="self-photo" src="/sindre-sorhus-small.jpg" align="right">
+<img id="self-photo" src="/bits_logo.jpg" align="right">
 
 # Education 
 
