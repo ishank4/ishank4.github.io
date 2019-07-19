@@ -8,6 +8,10 @@ collections:
     output: true
     permalink: /:title
     include: app-assets
+  projects:
+    output: true
+    permalink: /:title
+    include: project-assets
 defaults:
   - scope:
       path: ''

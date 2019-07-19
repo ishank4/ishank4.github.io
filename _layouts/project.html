@@ -28,20 +28,20 @@ layout: default
 		width: 200px;
 	}
 
-	.app-buttons {
+	.project-buttons {
 		text-align: center;
 	}
 
-	.app-buttons > div,
-	.app-buttons > div > a {
+	.project-buttons > div,
+	.project-buttons > div > a {
 		display: inline-block;
 	}
 
-	.app-main-button {
+	.project-main-button {
 		margin: 20px 0;
 	}
 
-	.app-links li {
+	.project-links li {
 		margin: 10px 0;
 	}
 
@@ -78,7 +78,7 @@ layout: default
 			<div class="columns is-vcentered is-centered">
 				<div id="intro" class="column is-half is-narrow">
 					<p>
-						<img id="icon" src="{{ relative_path }}/assets_project/{{ page.slug }}/icon.png" width="256" height="256">
+						<img id="icon" src="{{ relative_path }}/assets/{{ page.slug }}/icon.png" width="256" height="256">
 					</p>
 					<h1 class="title is-1">{{ page.title }}</h1>
 					<h2 class="subtitle">{{ page.subtitle }}</h2>
@@ -86,24 +86,24 @@ layout: default
 			</div>
 			<div class="columns is-vcentered is-centered is-text-centered">
 				<div class="column is-half is-narrow">
-					{% if page.app_store_url or page.setapp_url %}
-						<div class="app-buttons">
+					{% if page.project_store_url or page.setproject_url %}
+						<div class="project-buttons">
 							<div>
-								{% if page.app_store_url %}
-									<a class="no-underline app-store-badge" href="{{ page.app_store_url }}" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg) no-repeat;width:165px;height:40px"></a>
+								{% if page.project_store_url %}
+									<a class="no-underline project-store-badge" href="{{ page.project_store_url }}" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.projectle.com/assets/shared/badges/en-us/macprojectstore-lrg.svg) no-repeat;width:165px;height:40px"></a>
 								{% endif %}
-								{% if page.setapp_url %}
-									<a href="{{ page.setapp_url }}"><span style="position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">Available on Setapp</span><img src="https://developer.setapp.com/setapp-button/setapp.svg" alt="Available on Setapp" style="margin: 0; padding: 0; display: block; width: 122px; height: 40px"></a>
+								{% if page.setproject_url %}
+									<a href="{{ page.setproject_url }}"><span style="position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">Available on Setproject</span><img src="https://developer.setproject.com/setapps-button/setproject.svg" alt="Available on Setproject" style="margin: 0; padding: 0; display: block; width: 122px; height: 40px"></a>
 								{% endif %}
 							</div>
 						</div>
 					{% endif %}
 					{% if page.main_button %}
 						<p>
-							<a class="app-main-button button is-primary is-medium is-outlined" href="{{ page.main_button.url }}">{{ page.main_button.title }}</a>
+							<a class="project-main-button button is-primary is-medium is-outlined" href="{{ page.main_button.url }}">{{ page.main_button.title }}</a>
 						</p>
 					{% endif %}
-					<ul class="app-links">
+					<ul class="project-links">
 						<li>
 							{% if page.repo_url %}
 								<a class="is-link" href="{{ page.repo_url }}">Source on GitHub</a>
@@ -139,7 +139,7 @@ layout: default
 				{% endcomment %}
 
 				{% for file in site.static_files %}
-					{% assign path = '/assets_project/' | append: page.slug | append: '/screenshot' %}
+					{% assign path = '/assets/' | projectend: page.slug | projectend: '/screenshot' %}
 					{% if file.path contains path %}
 						<img src="{{ file.path }}">
 					{% endif %}
