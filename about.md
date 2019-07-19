@@ -24,13 +24,15 @@ title: Work Experience
 <img id="self-photo" src="/nvidia.jpg" align="right">
 
 # Work 🏦  
-I have worked for nvidia from 2016 to 2019. I joined Nvidia as a summer intern in 2016 in Memory Subsystems team. I was then absorbed in the same teamm and was converted to Full Tim Employee. 
+I have worked for [Nvidia] (https://www.nvidia.com/en-us/) from 2016 to 2019. I joined Nvidia as a summer intern in 2016 in Memory Subsystems team. I was then absorbed in the same teamm and was converted to Full Time Employee. 
 
 
 ### Key role(s)
-- Pursuing Master of Science in XYZ from ABC 
-- On going courses 
+-1) Handling and maintenance of GPU infrastructure that involved running different tests and regressions. 
+-2) Verification of FBHub a unit in GPU by writing performance related tests. 
+-3) DRAM architecture related tests for FBPA . 
+-4) Flair understanding of various memory types HBM/Gddr5/Gddr5x/Sddr4 
+-5) Working now with 'High Speed Hub' team for functional and performance verification of the unit.
 
-### Undergraduate School
-- Pursued Bachelor of Science in XYZ from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
-- Courses undertaken abc,xyz
+### Projects worked upon
+- 
