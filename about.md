@@ -28,11 +28,12 @@ I have worked for [Nvidia] (https://www.nvidia.com/en-us/) from 2016 to 2019. I 
 
 
 ### Key role(s)
--1) Handling and maintenance of GPU infrastructure that involved running different tests and regressions. 
--2) Verification of FBHub a unit in GPU by writing performance related tests. 
--3) DRAM architecture related tests for FBPA . 
--4) Flair understanding of various memory types HBM/Gddr5/Gddr5x/Sddr4 
--5) Working now with 'High Speed Hub' team for functional and performance verification of the unit.
+- 1) Handling and maintenance of GPU infrastructure that involved running different tests and regressions. 
+- 2) Verification of FBHub a unit in GPU by writing performance related tests. 
+- 3) DRAM architecture related tests for FBPA . 
+- 4) Flair understanding of various memory types HBM/Gddr5/Gddr5x/Sddr4 
+- 5) Working now with 'High Speed Hub' team for functional and performance verification of the unit.
 
 ### Projects worked upon
-- 
+- GPU Project 
+- CPU Project 
