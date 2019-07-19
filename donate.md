@@ -25,7 +25,7 @@ title: Education
 	width: 130px;
 }
 </style>
-<img id="self-photo1" src="/bits_logo.jpg" align="right">
+<img id="self-photo1" src="/ishan.jpg" align="right">
 <img id="self-photo" src="/bits_logo.jpg" align="right">
 
 # Education 
