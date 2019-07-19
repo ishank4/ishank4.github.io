@@ -23,7 +23,7 @@ title: Education
 
 <img id="self-photo" src="/ishan.jpg" align="right">
 
-# Education 📕 
+# Education 📕  now
 Currenlty pursuing master's from University.
 
 
