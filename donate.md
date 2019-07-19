@@ -12,7 +12,12 @@ title: Education
 	font-size: 18px;
 	margin-top: 5px;
 }
-
+#self-photo {
+	margin-top: 10px;
+	margin-left: 30px;
+	border-radius: 50%;
+	width: 130px;
+}
 #self-photo {
 	margin-top: 30px;
 	margin-left: 30px;
@@ -20,14 +25,14 @@ title: Education
 	width: 130px;
 }
 </style>
-
+<img id="self-photo1" src="/bits_logo.jpg" align="right">
 <img id="self-photo" src="/bits_logo.jpg" align="right">
 
 # Education 
 
-<p class="tagline">I'm a full-time open-sourcerer and <a href="https://twitter.com/sindresorhus/status/963478258808340482">my work is funded by the community.</a></p>
+<p class="tagline"> Pursuing Master of Science in XYZ from  </a></p>
 
-[Read more about me and what I do.](https://www.patreon.com/sindresorhus)
+<p class="tagline"> Pursued Bachelor of Science in XYZ from  Bits Pilani [2016 batch]  </a></p>
 
 If you or your company are using any of my projects, consider supporting me so I can continue [my open source work](https://github.com/sindresorhus).
 
