@@ -16,7 +16,7 @@ title: Work Experience
 #self-photo {
 	margin-top: 30px;
 	margin-left: 30px;
-	border-radius: 50%;
+	border-radius: 0%;
 	width: 130px;
 }
 </style>
