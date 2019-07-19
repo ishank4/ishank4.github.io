@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<p>Debug1: Start of HTML page.</p>
+
 <section class="section hero is-fullheight is-default is-bold">
 	<div id="apps" class="container">
-		<h2 class="title is-2">ghghghghg</h2>
-		<p>Lets look at some interesting.</p>
+		<h2 class="title is-2">Projects</h2>
+		<p>Lets see if our projects match.</p>
 		<br>
 		<div class="columns is-multiline">
-			{% for app in site.projects reversed %}
+			{% for app in site.apps reversed %}
 			<div class="column is-mobile is-half-tablet is-one-third-desktop">
 				<a href="{% if app.external_url %}{{ app.external_url }}{% else %}{{ app.url }}{% endif %}">
 					<div class="box">
@@ -18,7 +18,7 @@ layout: default
 							{% endcomment %}
 
 							{% for file in site.static_files %}
-								{% assign path = '/assets/' | append: app.slug | append: '/thumbnail' %}
+								{% assign path = '/assets_project/' | append: app.slug | append: '/thumbnail' %}
 								{% if file.path contains path %}
 									<img src="{{ file.path }}">
 								{% endif %}
