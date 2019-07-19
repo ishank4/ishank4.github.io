@@ -21,17 +21,6 @@
 		{% else %}
 			<meta property="og:image" content="https://sindresorhus.com/sindre-sorhus.jpg">
 		{% endif %}
-		
-		{% if page.collection == 'projects' %}
-			{% for file in site.static_files %}
-				{% assign path = '/assets_project/' | append: page.slug | append: '/icon' %}
-				{% if file.path contains path %}
-					<meta property="og:image" content="{{ file.path | absolute_url }}">
-				{% endif %}
-			{% endfor %}
-		{% else %}
-			<meta property="og:image" content="https://sindresorhus.com/sindre-sorhus.jpg">
-		{% endif %}
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@sindresorhus">
 		<meta name="twitter:creator" content="@sindresorhus">
