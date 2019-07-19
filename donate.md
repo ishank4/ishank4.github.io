@@ -13,13 +13,13 @@ title: Education
 	margin-top: 5px;
 }
 #self-photo1 {
-	margin-top: 10px;
+	margin-top: 30px;
 	margin-left: 30px;
 	border-radius: 50%;
 	width: 130px;
 }
 #self-photo {
-	margin-top: 30px;
+	margin-top: 60px;
 	margin-left: 30px;
 	border-radius: 50%;
 	width: 130px;
