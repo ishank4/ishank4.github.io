@@ -24,7 +24,7 @@ title: Work Experience
 <img id="self-photo" src="/nvidia.jpg" align="right">
 
 # Work 🏦  
-I have worked for [Nvidia] (https://www.nvidia.com/en-us/) from 2016 to 2019. I joined Nvidia as a summer intern in 2016 in Memory Subsystems team. I was then absorbed in the same teamm and was converted to Full Time Employee. 
+I have worked for [Nvidia](https://www.nvidia.com/en-us/) from 2016 to 2019. I joined Nvidia as a summer intern in 2016 in Memory Subsystems team. I was then absorbed in the same teamm and was converted to Full Time Employee. 
 
 
 ### Key role(s)
