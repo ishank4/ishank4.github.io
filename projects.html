@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="section hero is-fullheight is-default is-bold">
-	<div id="projects" class="container">
+	<div id="project" class="container">
 		<h2 class="title is-2">Projects</h2>
 		<p>Lets see if our hobbies match.</p>
 		<br>
@@ -18,7 +18,7 @@ layout: default
 							{% endcomment %}
 
 							{% for file in site.static_files %}
-								{% assign path = '/assets/' | append: app.slug | append: '/thumbnail' %}
+								{% assign path = '/assets_project/' | append: app.slug | append: '/thumbnail' %}
 								{% if file.path contains path %}
 									<img src="{{ file.path }}">
 								{% endif %}

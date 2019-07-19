@@ -78,7 +78,7 @@ layout: default
 			<div class="columns is-vcentered is-centered">
 				<div id="intro" class="column is-half is-narrow">
 					<p>
-						<img id="icon" src="{{ relative_path }}/assets/{{ page.slug }}/icon.png" width="256" height="256">
+						<img id="icon" src="{{ relative_path }}/assets_project/{{ page.slug }}/icon.png" width="256" height="256">
 					</p>
 					<h1 class="title is-1">{{ page.title }}</h1>
 					<h2 class="subtitle">{{ page.subtitle }}</h2>
@@ -139,7 +139,7 @@ layout: default
 				{% endcomment %}
 
 				{% for file in site.static_files %}
-					{% assign path = '/assets/' | append: page.slug | append: '/screenshot' %}
+					{% assign path = '/assets_project/' | append: page.slug | append: '/screenshot' %}
 					{% if file.path contains path %}
 						<img src="{{ file.path }}">
 					{% endif %}
