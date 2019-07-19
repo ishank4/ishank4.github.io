@@ -21,7 +21,7 @@ title: Education
 }
 </style>
 
-<img id="self-photo" src="/sindre-sorhus-small.jpg" align="right">
+<img id="self-photo" src="/ishan.jpg" align="right">
 
 # Education 
 Currenlty pursuing master's from University.
