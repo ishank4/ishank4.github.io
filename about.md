@@ -21,13 +21,13 @@ title: Work Experience
 }
 </style>
 
-<img id="self-photo" src="/nvidia.jpg" align="left">
+<img id="self-photo" src="/nvidia.jpg" align="right">
 
 # Work 🏦  
-Currenlty pursuing master's from University.
+I have worked for nvidia from 2016 to 2019. I joined Nvidia as a summer intern in 2016 in Memory Subsystems team. I was then absorbed in the same teamm and was converted to Full Tim Employee. 
 
 
-### Graduate School
+### Key role(s)
 - Pursuing Master of Science in XYZ from ABC 
 - On going courses 
 
