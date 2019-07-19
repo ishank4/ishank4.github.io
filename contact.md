@@ -38,7 +38,7 @@ I value my time, so make it worth it, and [keep it succinct.](https://www.google
 ---
 
 <p id="email">
-	<a href="mailto:sindresorhus@gmail.com">ishankumar246@gmail.com</a>
+	<a href="mailto:ishankumar246@gmail.com">ishankumar246@gmail.com</a>
 </p>
 
 ---
