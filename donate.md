@@ -12,7 +12,7 @@ title: Education
 	font-size: 18px;
 	margin-top: 5px;
 }
-#self-photo {
+#self-photo1 {
 	margin-top: 10px;
 	margin-left: 30px;
 	border-radius: 50%;
