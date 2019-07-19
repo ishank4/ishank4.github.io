@@ -24,22 +24,18 @@ title: Education
 <img id="self-photo" src="/sindre-sorhus-small.jpg" align="right">
 
 # Education 
-
-<p class="tagline"> Master's student </p>
-
+Currenlty pursuing master's from University.
 
 
-If you or your company are using any of my projects, consider supporting me so I can continue [my open source work](https://github.com/sindresorhus).
-
-### Graduate 
-- Pursuing Master of Science in XYZ from  
+### Graduate School
+- Pursuing Master of Science in XYZ from ABC 
 
 - [**GitHub Sponsors**](https://github.com/users/sindresorhus/sponsorship) <span style="font-size: 10px">(Preferred as GitHub will match donations for the first year)</span>
 - [Open Collective](https://opencollective.com/sindresorhus)
 - [Patreon](https://www.patreon.com/sindresorhus)
 
-### Undergraduate
-- Pursued Bachelor of Science in XYZ from  Bits Pilani [2016 batch]
+### Undergraduate School
+- Pursued Bachelor of Science in XYZ from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
 
 - [My PayPal](https://www.paypal.me/sindresorhus)
 - [BuyMeACoffee.com](https://www.buymeacoffee.com/sindresorhus)
