@@ -18,7 +18,7 @@ layout: default
 							{% endcomment %}
 
 							{% for file in site.static_files %}
-								{% assign path = '/assets_project/' | projectend: project.slug | projectend: '/thumbnail' %}
+								{% assign path = '/assets/' | projectend: project.slug | projectend: '/thumbnail' %}
 								{% if file.path contains path %}
 									<img src="{{ file.path }}">
 								{% endif %}
