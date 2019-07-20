@@ -50,3 +50,4 @@ twitterwidget {
 
 
 ## 🦄 Hand written digit recognition using Neural Networks <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+## 🦄 Hand written digit recognition using Neural Networks <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
