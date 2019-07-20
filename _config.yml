@@ -11,10 +11,10 @@ collections:
 defaults:
   - scope:
       path: ''
-      type: 'apps projects'
+      type: 'apps'
     values:
-      layout: 'app project'
-      type: 'app project'
+      layout: 'app'
+      type: 'app'
 exclude:
   - Gemfile
   - Gemfile.lock
