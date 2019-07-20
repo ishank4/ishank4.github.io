@@ -48,17 +48,10 @@ twitterwidget {
 }
 </style>
 
-<img id="thanks-gif" src="https://user-images.githubusercontent.com/170270/34912417-66acc388-f8e1-11e7-8350-8e7a321ef97f.gif" width="130" align="right">
 
-# Thanks! ❤️🙌
-
-I'm truly grateful to all the wonderful humans and companies supporting my open source work on [GitHub Sponsors](https://github.com/users/sindresorhus/sponsorship), [Open Collective](https://opencollective.com/sindresorhus), and [Patreon](https://www.patreon.com/sindresorhus).
-
-
-## 🦄 Sponsor <span class="reward-price">[$1000/month](https://www.patreon.com/bePatron?c=95723&rid=1917470)</span>
+## 🦄 Hand written digit recognition using Neural Networks <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
 
 None
-
 
 ## Silver sponsor <span class="reward-price">[$100/month](https://www.patreon.com/bePatron?c=95723&rid=1917312)</span>
 
