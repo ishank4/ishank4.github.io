@@ -19,7 +19,7 @@ To do so, I am signing this object:
       "key_id": "5a35ffdb8b07983a",
       "kid": "0101cb611ee03ce62c90d7bb7e8ee3aba2c539d8bbb07c3be2ce6e01371539d94ba50a",
       "uid": "b6eaadc02135408a3c296cd49dabdb19",
-      "username": "sindresorhus"
+      "username": "ishankumar"
     },
     "service": {
       "hostname": "sindresorhus.com",
