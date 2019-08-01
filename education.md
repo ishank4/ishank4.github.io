@@ -24,13 +24,21 @@ title: Education
 <img id="self-photo" src="/ishan.jpg" align="right">
 
 # Education 📕  
-Currenlty pursuing master's from University.
+Will be pursuing master's in Computer Engineering from Texas A&M University.
 
 
 ### Graduate School
-- Pursuing Master of Science in XYZ from ABC 
+- Pursuing Master of Science in Computer Archtecture and Machine Learning
 - On going courses 
+       -Advanced Computer Architecture
+       -Machine Learning
 
 ### Undergraduate School
-- Pursued Bachelor of Science in XYZ from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
-- Courses undertaken abc,xyz
+- Pursued Bachelor of Science in Electrical and Electronics Engineering from [Bits-Pilani](https://www.bits-pilani.ac.in/) [2016 batch]
+- Courses undertaken:
+	- Computer Architecture
+	- Neural Networks and Machine Learning
+	- Data Structure and Algorithms
+	- Analog and Digital VLSI
+	- Discreet Mathematics
+	- Digital Design
