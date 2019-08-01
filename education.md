@@ -21,7 +21,7 @@ title: Education
 }
 </style>
 
-<img id="self-photo" src="/ishan.jpg" align="right">
+<img id="self-photo" src="/tamu.jpg" align="right">
 
 # Education 📕  
 Will be pursuing master's in Computer Engineering from Texas A&M University.
