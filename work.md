@@ -33,6 +33,9 @@ I have worked for [Nvidia](https://www.nvidia.com/en-us/) from 2016 to 2019. I j
 - 3) DRAM architecture related tests for FBPA . 
 - 4) Flair understanding of various memory types HBM/Gddr5/Gddr5x/Sddr4 
 - 5) Working now with 'High Speed Hub' team for functional and performance verification of the unit.
+- 6) CPU verification of Design for Debug(DFD) unit for APB2JTAG and WDT IPs.
+- 7) ARM debug verification at SOC level for CPU subsystem
+- 8) ARM JTAG interface verification and testplan execution
 
 ### Projects worked upon
 - GPU Project 
