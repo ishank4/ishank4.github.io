@@ -49,16 +49,16 @@ twitterwidget {
 </style>
 
 
-##  Tomasulo Algorithm Implementation using C++ <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+##  Tomasulo Algorithm Implementation using C++ <span class="reward-price">[Github Link](https://github.com/ishank4/Tomasulo-Implementation-in-C)</span>
 ##
-##  5-stage pipelined 32-bit MIPS microprocessor in Verilog <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+##  5-stage pipelined 32-bit MIPS microprocessor in Verilog <span class="reward-price">[Github Link](https://github.com/ishank4/Mips-Architecure-Design-)</span>
 ##
-##  Face Recognition and Verification <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+##  Face Recognition and Verification <span class="reward-price">[Github Link](https://github.com/ishank4/Face-recognition-and-Verification-)</span>
 ##
-##  Hand written digit recognition using Neural Networks <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+##  Hand written digit recognition using Neural Networks <span class="reward-price">[Github Link](https://github.com/ishank4/Hand-written-digit-recognition-using-Neural-Networks)</span>
 ##
-##  Tensor Flow based Hand direction detection <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+##  Logistic Regression Model to predict university admission of any student<span class="reward-price">[Github Link](https://github.com/ishank4/Logistic-Regression-Model-to-predict-university-admission-of-any-student)</span>
 ##
-##  Autonomous driving - Car detection <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+##  Autonomous driving - Car detection <span class="reward-price">[Github Link](https://github.com/ishank4/Autonomous-Driving-Car-detection-)</span>
 ##
-##  Deep Learning Arctitecture, Forward and Backward Propogation (Nth Layer) <span class="reward-price">[Github Link](https://github.com/adarshm9031/Hand-written-digit-recognition-using-Neural-Networks-master)</span>
+##  Deep Learning Arctitecture, Forward and Backward Propogation (Nth Layer) <span class="reward-price">[Github Link](https://github.com/ishank4/Cat-or-No-cat-using-Logistic-Regression-)</span>
