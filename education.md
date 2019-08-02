@@ -28,7 +28,7 @@ Will be pursuing master's in Computer Engineering from Texas A&M University.
 
 
 ### Graduate School
-- Pursuing Master of Science in Computer Archtecture and Machine Learning
+- Pursuing Master of Science in Computer Architecture and Machine Learning
 - On going courses 
        -Advanced Computer Architecture
        -Machine Learning
